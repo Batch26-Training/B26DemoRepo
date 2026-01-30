@@ -31,6 +31,11 @@ namespace WebApplication.Controllers
         {
             return View();
         }
+
+        public IActionResult PrathameshPatil()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
